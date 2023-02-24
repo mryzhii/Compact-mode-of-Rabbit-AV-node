@@ -11,7 +11,7 @@ E. Ryzhii (Fukushima Medical University).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<br>
 Tested with MATLAB R2022b<br>
 
-rabbitAVN.m - main file
+rabbitAVN.m - main file<br>
               Set 'Mode' to the corresponding value (see inside)<br>
 avn_data1.m - rabbit AVN model structure and parameters<br>
 avn_fun.m   - function for MATLAB ODE solver<br>
