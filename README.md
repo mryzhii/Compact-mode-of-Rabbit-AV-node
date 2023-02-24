@@ -14,8 +14,8 @@ E. Ryzhii (Fukushima Medical University).
 Tested with MATLAB R2022b
 
 rabbitAVN.m - main file
-              Set 'Mode' to the corresponding value (see inside)
+              Set 'Mode' to the corresponding value (see inside)<br>
 
-avn_data1.m - rabbit AVN model structure and parameters
+avn_data1.m - rabbit AVN model structure and parameters<br>
 avn_fun.m   - function for MATLAB ODE solver
 avn_plot.m  - analyses ladder diagrams and creates plots
