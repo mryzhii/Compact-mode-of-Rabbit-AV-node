@@ -5,8 +5,8 @@ from the paper:
 node with dual pathways", Frontiers in Physiology, 14 (2023). 
 DOI: 10.3389/fphys.2023.1126648
 
-by M.Ryzhii (University of Aizu) and 
-E.Ryzhii (Fukushima Medical University).
+by M. Ryzhii (University of Aizu) and 
+E. Ryzhii (Fukushima Medical University).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
