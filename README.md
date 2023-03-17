@@ -3,7 +3,7 @@ This folder contains MATLAB source code for the Rabbit AV node model
 from the paper:<br>
 "A compact multi-functional model of the rabbit atrioventricular 
 node with dual pathways",<br>
-Frontiers in Physiology, 14 (2023). <br>
+Frontiers in Physiology, 14 (2023), <br>
 https://doi.org/10.3389/fphys.2023.1126648
 
 by M. Ryzhii (University of Aizu) and 
